@@ -1,7 +1,7 @@
 # Discord-Server-Cloner-TR
 Discord sunucu kopyalama
 
-Kopyalayabildikleri
+**Kopyalayabildikleri**
 + Kanalları
 + Kanal ayarları
 + Sunucu rolleri
@@ -10,6 +10,6 @@ Kopyalayabildikleri
 + Sunucu Emojilerini
 + Sunucu Ayarlarını
 
-Kopyalamadıkları
+**Kopyalamadıkları**
 - Sunucu Mesajları
 - Sunucu Üyeler
