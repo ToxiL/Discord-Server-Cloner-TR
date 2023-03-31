@@ -1,6 +1,10 @@
 # Discord-Server-Cloner-TR
 Discord sunucu kopyalama
 
+**Gerekli kaynaklar;**
+https://nodejs.org/en
+https://www.python.org
+
 **Kopyalayabildikleri**
 + Kanalları
 + Kanal ayarları
@@ -12,4 +16,4 @@ Discord sunucu kopyalama
 
 **Kopyalamadıkları**
 - Sunucu Mesajları
-- Sunucu Üyeler
+- Sunucu Üyeleri
