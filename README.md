@@ -2,8 +2,8 @@
 Discord sunucu kopyalama
 
 **Gerekli kaynaklar;**
-https://nodejs.org/en
-https://www.python.org
++ https://nodejs.org/en
++ https://www.python.org
 
 **Kopyalayabildikleri**
 + Kanalları
